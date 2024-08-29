@@ -32,7 +32,7 @@ export const getUsers = async() => {
   return users;
 };
 
-export const getUseById = async (id: string) => {
+export const getUserById = async (id: string) => {
   const db = await getDb();
   const objectId = new ObjectId(id);
 
@@ -58,7 +58,7 @@ export const getUserByEmail = async (email: string) => {
   return user;
 };
 
-export const createuser = async (user:UserModelCreateInput) => {
+export const createUser = async (user:UserModelCreateInput) => {
   const modifiedUser: UserModelCreateInput = {
     ...user,
     password: hash(user.password)
