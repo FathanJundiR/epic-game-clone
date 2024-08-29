@@ -1,4 +1,5 @@
-import { getProducts } from "@/db/models/product";
+import { getWishlists } from "@/db/models/wishlist";
+
 
 type MyResponse<T> = {
   statusCode: number;
@@ -8,12 +9,12 @@ type MyResponse<T> = {
 };
 
 export const GET = async () => {
-  const products = await getProducts();
+  const wishlists = await getWishlists();
   return Response.json(
     {
       statusCode: 200,
-      message: "Success Read Products",
-      data: products
+      message: "Success Read Wishlists",
+      data: wishlists
     },
     {
       status: 200
