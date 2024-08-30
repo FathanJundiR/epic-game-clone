@@ -2,6 +2,7 @@
 
 import { getUserByEmail } from "@/db/models/user";
 import { compare } from "@/db/utils/bcryptHash";
+import { BASE_URL } from "@/db/utils/constant";
 import { signToken } from "@/lib/jwt";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
@@ -26,12 +27,12 @@ export const doSignIn = async (formData: FormData) => {
     const errorMessage = parsedData.error.issues[0].message;
     const errorFinalMessage = `${errorPath} - ${errorMessage}`;
 
-    return redirect(`http://localhost:3000/login?error=${errorFinalMessage}`);
+    return redirect(`${BASE_URL}/login?error=${errorFinalMessage}`);
   }
 
   const user = await getUserByEmail(parsedData.data.email);
   if (!user || !compare(parsedData.data.password, user.password)) {
-    return redirect(`http://localhost:3000/login?error=INVALID_CREDENTIALS`);
+    return redirect(`${BASE_URL}/login?error=INVALID_CREDENTIALS`);
   }
 
   const payload = {
@@ -48,5 +49,5 @@ export const doSignIn = async (formData: FormData) => {
     sameSite: "strict"
   });
 
-  return redirect(`http://localhost:3000/`)
+  return redirect(`${BASE_URL}/`)
 }
