@@ -34,6 +34,9 @@ export const GET = async () => {
 export const POST = async (request: Request) => {
   try {
     const data = await request.json();
+    //hapus
+    console.log(data);
+    
     const parsedData = userInputSchema.safeParse(data);
     if (!parsedData.success) {
       throw parsedData.error;
@@ -51,6 +54,9 @@ export const POST = async (request: Request) => {
       }
     )
   } catch (error) {
+    //hapus
+    console.log(error);
+    
     if (error instanceof z.ZodError) {
       console.log(error);
       const errorPath = error.issues[0].path[0];

@@ -21,3 +21,11 @@
 ## Type
 
 kumpulin di .ts di dalem src, biasanya dibikin per fitur
+
+## Action
+
+- pisahin action register dan yang lain.
+
+# Question
+
+- Ganti URL fetch dan option cookies?
