@@ -1,13 +1,7 @@
 import { createUser, getUsers } from "@/db/models/user";
+import { MyResponse } from "@/indexType";
 import { NextResponse } from "next/server";
 import { z } from "zod";
-
-type MyResponse<T> = {
-  statusCode: number;
-  message?: string;
-  data?: T;
-  error?: string;
-};
 
 const userInputSchema = z
   .object({
@@ -19,7 +13,7 @@ const userInputSchema = z
 
 export const GET = async () => {
   const users = await getUsers();
-  return Response.json(
+  return NextResponse.json<MyResponse<unknown>>(
     {
       statusCode: 200,
       message: "Success Read Users",

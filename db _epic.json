@@ -53,7 +53,7 @@
     "publisher": "Techland",
     "platform": ["windows"],
     "genres": ["Action", "Open World", "RPG"],
-    "thumbnail": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S2_1200x1600-49546d7deaaf160596e034613a2d2a93?h=480&quality=medium&resize=1&w=360",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-9hoxy.jpg?h=480&quality=medium&resize=1&w=360",
     "logo": "https://cdn2.unrealengine.com/egs-dyinglightstandardedition-techland-editions-ic1-200x200-31832ac6362f.png?h=270&quality=medium&resize=1&w=480",
     "images": [
       "https://cdn2.unrealengine.com/egs-dyinglightstandardedition-techland-editions-g1a-01-1920x1080-2bc56c4fcf03.jpg",
@@ -61,6 +61,279 @@
       "https://cdn2.unrealengine.com/egs-dyinglightstandardedition-techland-editions-g1a-03-1920x1080-136d96d0e2ca.jpg",
       "https://cdn2.unrealengine.com/egs-dyinglightstandardedition-techland-editions-g1a-04-1920x1080-748b89f6e3f8.jpg",
       "https://cdn2.unrealengine.com/egs-dyinglightstandardedition-techland-editions-g1a-05-1920x1080-9d6da0ae00d9.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "World of Goo 2",
+    "slug": "world-of-goo-2",
+    "description": "Build bridges, grow towers, terraform terrain, and fuel flying machines in the stunning followup to the multi-award winning World of Goo.",
+    "excerpt": "World of Goo",
+    "price": 207999,
+    "developer": "2D BOY",
+    "publisher": "Tomorrow Corporation",
+    "platform": ["windows"],
+    "genres": ["Adventure", "Indie", "Puzzle"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/6ab142f4da934e0aac9c45ce76c5e812/world-of-goo-2-bp7nh.png?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-worldofgoo2-2dboy-ic1-400x356-58dc73071885.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-worldofgoo2-2dboy-g1a-01-1920x1080-8b87f4d41a69.jpg?h=270&quality=medium&resize=1&w=480",
+      "https://cdn2.unrealengine.com/egs-worldofgoo2-2dboy-g1a-02-1920x1080-cfb53a91585c.jpg?h=270&quality=medium&resize=1&w=480",
+      "https://cdn2.unrealengine.com/egs-worldofgoo2-2dboy-g1a-03-1920x1080-3935423dd7f3.jpg?h=270&quality=medium&resize=1&w=480",
+      "https://cdn2.unrealengine.com/egs-worldofgoo2-2dboy-g1a-03-1920x1080-3935423dd7f3.jpg?h=270&quality=medium&resize=1&w=480"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Squirrel with a Gun",
+    "slug": "squirrel-with-a-gun",
+    "description": "Squirrel, meet gun. As the neighborhood’s most obnoxious rodent, develop a knack for crime and mayhem in pursuit of golden acorns in this nutty sandbox shooter and puzzle platformer. Fight tooth, claw, and gun to escape a secret underground facility and defeat the Agents.",
+    "excerpt": "squirrel holdin gun, omaga",
+    "price": 124199,
+    "developer": "Dee Dee Creations LLC",
+    "publisher": "Maximum Entertainment",
+    "platform": ["windows"],
+    "genres": ["Action-Adventure", "Comedy", "Shooter"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-mjq6e.png?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-logo-1m2zn.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-296ld.png",
+      "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-1tqsh.png?h=270&quality=medium&resize=1&w=480",
+      "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-bir3k.png",
+      "https://cdn1.epicgames.com/spt-assets/cad415aa634543c78f3389f13196fdbd/squirrel-with-a-gun-x70w7.png"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Manor Lords",
+    "slug": "manor-lords",
+    "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord -- the seasons pass, the weather changes, and cities rise and fall.",
+    "excerpt": "Become a Land Lord",
+    "price": 299999,
+    "developer": "Slavic Magic",
+    "publisher": "Hooded Horse",
+    "platform": ["windows"],
+    "genres": ["City Builder", "RTS", "Strategy"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-9hoxy.jpg?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-logo-bdmmp.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-1kuru.jpg?h=270&quality=medium&resize=1&w=480",
+      "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-6u2s2.jpg",
+      "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-nxvel.jpg",
+      "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-6538t.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "EA SPORTS™ Madden NFL 25",
+    "slug": "madden-nfl-25",
+    "description": "Hit like you mean it with FieldSENSE™ powered by BOOM Tech. Experience how the new physics-informed dynamic tackling system unlocks realistic collisions & new gameplay animations on both sides of the ball.",
+    "excerpt": "An NFL Game",
+    "price": 799000,
+    "developer": "Tiburon",
+    "publisher": "Electronic Arts",
+    "platform": ["windows"],
+    "genres": ["Sport"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/333cce509c6b413c852e5177f19f8e84/EGS_EASPORTSMaddenNFL25_Tiburon_S2_1200x1600-289740792de6bbf7eefe8c40301b4077?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-easportsmaddennfl25-tiburon-ic1-400x400-865de1b41b5d.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-easportsmaddennfl25-tiburon-g1a-00-1920x1080-f4f1fee9720b.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsmaddennfl25-tiburon-g1a-01-1920x1080-387c0f777b35.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsmaddennfl25-tiburon-g1a-02-1920x1080-a39ac94458b6.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsmaddennfl25-tiburon-g1a-04-1920x1080-ff07020fb675.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "slug": "ghost-of-tsushima",
+    "description": "A storm is coming. Venture into the complete Ghost of Tsushima DIRECTOR’S CUT on PC; forge your own path through this open-world action adventure and uncover its hidden wonders.",
+    "excerpt": "discover the complete Ghost of Tsushima experience",
+    "price": 879000,
+    "developer": "Nixxes Software",
+    "publisher": "PlayStation Publishing LLC",
+    "platform": ["windows"],
+    "genres": ["Action", "Adventure"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/6e6aa039c73347b885803de65ac5d3db/EGS_GhostofTsushima_SuckerPunchProductions_S2_1200x1600-e23e02c1d70be7b528dba50860f87d39?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/offer/333cce509c6b413c852e5177f19f8e84/EGS_EASPORTSMaddenNFL25_Tiburon_S2_1200x1600-289740792de6bbf7eefe8c40301b4077?h=480&quality=medium&resize=1&w=360",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-ghostoftsushima-suckerpunchproductions-g1a-05-1920x1080-44fb44091eb6.jpg",
+      "https://cdn2.unrealengine.com/egs-ghostoftsushima-suckerpunchproductions-g1a-00-1920x1080-2ed0a8390056.jpg",
+      "https://cdn2.unrealengine.com/egs-ghostoftsushima-suckerpunchproductions-g1a-01-1920x1080-aebe128619b9.jpg",
+      "https://cdn2.unrealengine.com/egs-ghostoftsushima-suckerpunchproductions-g1a-02-1920x1080-2319b69078c1.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "A Way Out",
+    "slug": "a-way-out",
+    "description": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.",
+    "excerpt": "Escape from the prison",
+    "price": 379000,
+    "developer": "Hazelight",
+    "publisher": "Electronic Arts",
+    "platform": ["windows"],
+    "genres": ["Action", "Adventure"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-kd107.jpg?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-logo-k0q3u.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-1jnik.jpg",
+      "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-bj4jm.jpg",
+      "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-tjxju.jpg",
+      "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-1os64.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Fallout 4",
+    "slug": "Fallout-4",
+    "description": "As the sole survivor of Vault 111, do whatever you want in a massive open world Commonwealth with hundreds of locations, characters and quests. Welcome home to Fallout 4, from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim.",
+    "excerpt": "After Nuke condition",
+    "price": 266000,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "platform": ["windows"],
+    "genres": ["Open World", "RPG"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/9c1a74145a9145ec803d7452e80819a0/EGS_Fallout4_BethesdaGameStudios_S2_1200x1600-2b307b78180f2a6a2dc89ab1c20b3c1b?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-fallout4-bethesdagamestudios-ic1-400x400-816b9c06a74b.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-fallout4-bethesdagamestudios-g1a-01-1920x1080-5d69d6fe792d.jpg",
+      "https://cdn2.unrealengine.com/egs-fallout4-bethesdagamestudios-g1a-02-1920x1080-f2f4c53ffdbd.jpg",
+      "https://cdn2.unrealengine.com/egs-fallout4-bethesdagamestudios-g1a-03-1920x1080-09495de94186.jpg",
+      "https://cdn2.unrealengine.com/egs-fallout4-bethesdagamestudios-g1a-05-1920x1080-67a7d958b71b.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Battlefield™ 1 Revolution",
+    "slug": "battlefield-1-revolution",
+    "description": "Battlefield™ 1 takes you back to The Great War, WW1, where new technology and worldwide conflict changed the face of warfare forever.",
+    "excerpt": "WW1 game",
+    "price": 479000,
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "platform": ["windows"],
+    "genres": ["First Person", "Shooter"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-9wn24.jpg?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-logo-1gpr7.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-1m1ju.jpg",
+      "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-1vj8n.jpg",
+      "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-22obv.jpg",
+      "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-m9q3s.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Monster Jam™ Showdown",
+    "slug": "monster-jam-showdown",
+    "description": "It’s time to jump into a groundbreaking off-road arcade racing game, packed with thrilling sprints and unique tricks. Get behind the wheel of the most iconic Monster Jam™ trucks ever, and show your skills in several game modes!",
+    "excerpt": "a big car racing game",
+    "price": 699000,
+    "developer": "Milestone S.r.l.",
+    "publisher": "Milestone S.r.l.",
+    "platform": ["windows"],
+    "genres": ["Racing"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/42c70202dc684966a827bfcb7b49ac5f/EGS_MonsterJamShowdown_MilestoneSrl_S2_1200x1600-a819ba968f7f76350b1fa9bc1ee97f28?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-monsterjamshowdown-milestonesrl-ic1-400x400-31ce6c46dc24.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-monsterjamshowdown-milestonesrl-g1a-00-1920x1080-0e3519ce6f51.jpg",
+      "https://cdn2.unrealengine.com/egs-monsterjamshowdown-milestonesrl-g1a-01-1920x1080-3a99bc645145.jpg",
+      "https://cdn2.unrealengine.com/egs-monsterjamshowdown-milestonesrl-g1a-02-1920x1080-ce69d223143b.jpg",
+      "https://cdn2.unrealengine.com/egs-monsterjamshowdown-milestonesrl-g1a-03-1920x1080-1c3a8dd3541e.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Wargame: Red Dragon",
+    "slug": "wargame-red-dragon",
+    "description": "The new reference in RTS at its best! The Wargame series returns to duty, larger, richer, and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.",
+    "excerpt": "War game plane, ship and tank",
+    "price": 39500,
+    "developer": "Eugen Systems",
+    "publisher": "Eugen Systems",
+    "platform": ["windows"],
+    "genres": ["Simulation", "Strategy"],
+    "thumbnail": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-ic1-400x187-349321086.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-g1a-00-1920x1080-349320814.jpg",
+      "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-g1a-01-1920x1080-349320824.jpg",
+      "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-g1a-02-1920x1080-349320856.jpg",
+      "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-g1a-03-1920x1080-349320766.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "EA SPORTS FC™ 25 Standard Edition",
+    "slug": "ea-sports-fc-25",
+    "description": "EA SPORTS FC™ 25 gives you more ways to play and win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory with more tactical control in every 11v11 match across every mode with FC IQ.",
+    "excerpt": "Football game, but not FIFA",
+    "price": 799000,
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "platform": ["windows"],
+    "genres": ["Simulation"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/b61e8ddd14e94619b7a74cf9d73f86b5/EGS_EASPORTSFC25StandardEdition_EACanada_S2_1200x1600-6e6b5c1d5d30e15b1dbdde721c6bc544?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egs-easportsfc25standardedition-eacanada-ic1-400x400-ebb6decd53c9.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/egs-easportsfc25ultimateedition-eacanada-editions-g1a-01-1920x1080-a5e0646a5b8a.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsfc25ultimateedition-eacanada-editions-g1a-02-1920x1080-4d67a8d29892.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsfc25ultimateedition-eacanada-editions-g1a-03-1920x1080-bad24062f52f.jpg",
+      "https://cdn2.unrealengine.com/egs-easportsfc25ultimateedition-eacanada-editions-g1a-04-1920x1080-bbdf88397366.jpg"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Star Wars Outlaws",
+    "slug": "star-wars-outlaw",
+    "description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted. If you’re willing to take the risk, the galaxy is full of opportunity.",
+    "excerpt": "Starwars new game",
+    "price": 809000,
+    "developer": "Ubisoft Entertainment",
+    "publisher": "Ubisoft Entertainment",
+    "platform": ["windows"],
+    "genres": ["Action", "Adventure", "Shooter"],
+    "thumbnail": "https://cdn1.epicgames.com/offer/e860fa919120430ca12c557bb676bc6a/EGST_StorePortrait_1200x1600_1200x1600-e6f41420c20529e7380243a6f6b7a38f?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-aab259884004.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn2.unrealengine.com/01-swo-toshara-png-3840x2160-3840x2160-10b1c382841d.png",
+      "https://cdn2.unrealengine.com/02-swo-pirate-ambush-png-3840x2160-3840x2160-1cab717ba0b2.png",
+      "https://cdn2.unrealengine.com/03-brand-metadata-screenshot-aki-action-wide-png-3840x2160-3840x2160-efdbbe45cea9.png",
+      "https://cdn2.unrealengine.com/04-brand-metadata-screenshot-kij-ashiga-final-wide-png-3840x2160-3840x2160-b99ec81e63b0.png"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "God of War Ragnarök",
+    "slug": "god-of-war-ragnarok",
+    "description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go – now on PC.",
+    "excerpt": "Journey Kratos and Atreus",
+    "price": 879000,
+    "developer": "Santa Monica Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "platform": ["windows"],
+    "genres": ["Action-Adventure"],
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-19vzm.jpg?h=480&quality=medium&resize=1&w=360",
+    "logo": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-logo-1ywrp.png?h=270&quality=medium&resize=1&w=480",
+    "images": [
+      "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-w76o4.jpg",
+      "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-bw9hq.jpg",
+      "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-1h9av.jpg",
+      "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-1s1n8.jpg"
     ],
     "createdAt": "2023-12-15T15:32:06.350Z",
     "updatedAt": "2024-03-18T14:47:12.101Z"

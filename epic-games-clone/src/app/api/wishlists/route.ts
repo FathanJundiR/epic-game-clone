@@ -1,16 +1,10 @@
 import { getWishlists } from "@/db/models/wishlist";
-
-
-type MyResponse<T> = {
-  statusCode: number;
-  message?: string;
-  data?: T;
-  error?: string;
-};
+import { MyResponse } from "@/indexType";
+import { NextResponse } from "next/server";
 
 export const GET = async () => {
   const wishlists = await getWishlists();
-  return Response.json(
+  return NextResponse.json<MyResponse<unknown>>(
     {
       statusCode: 200,
       message: "Success Read Wishlists",
