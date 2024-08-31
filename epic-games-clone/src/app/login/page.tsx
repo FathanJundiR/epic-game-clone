@@ -1,5 +1,6 @@
 import ErrorFlashComponent from "@/components/ErrorFlashComponent";
 import { doSignIn } from "./action";
+import { Suspense } from "react";
 
 const LoginPage = () => {
   return (
@@ -9,7 +10,9 @@ const LoginPage = () => {
           <div className=" flex  flex-col items-center h-full ">
             <div className="my-10">LOGO EPiC</div>
             <div className="font-bold">Sign In</div>
-            <ErrorFlashComponent></ErrorFlashComponent>
+            <Suspense>
+              <ErrorFlashComponent></ErrorFlashComponent>
+            </Suspense>
             <form action={doSignIn}>
               <input
                 type="text"

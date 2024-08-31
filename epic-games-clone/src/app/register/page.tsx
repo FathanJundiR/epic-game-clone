@@ -1,5 +1,6 @@
 import ErrorFlashComponent from "@/components/ErrorFlashComponent";
 import { redirect } from "next/navigation";
+import { Suspense } from "react";
 
 const RegisterPage = () => {
   const signUpHandler = async (formData: FormData) => {
@@ -44,7 +45,9 @@ const RegisterPage = () => {
           <div className=" flex  flex-col items-center h-full ">
             <div className="my-10">LOGO EPiC</div>
             <div className="font-bold">Sign Up</div>
-            <ErrorFlashComponent></ErrorFlashComponent>
+            <Suspense>
+              <ErrorFlashComponent></ErrorFlashComponent>
+            </Suspense>
             <form action={signUpHandler}>
               <input
                 type="text"
